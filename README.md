@@ -2,4 +2,4 @@
 
 pacman-game es una versión simplificada del juego original.
 
-![pacman-game] [pacman/img/pacman-game.png]
+![pacman-game] (https://github.com/nataliamachella/pacman-game/blob/master/pacman/img/pacman-game.png)
