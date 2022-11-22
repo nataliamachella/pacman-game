@@ -2,4 +2,4 @@
 
 pacman-game es una versión simplificada del juego original.
 
-![pacman-game] (/img/pacman.game.png)
+![pacman-game] (/img/pacman-game.png)
