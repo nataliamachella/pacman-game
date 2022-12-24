@@ -10,4 +10,4 @@ a : ⬅️
 s : ⬇️
 d : ➡️
 
-![pacman-game](https://github.com/nataliamachella/pacman-game/blob/master/pacman/img/pacman-game.png)
+![pacman-game](https://github.com/nataliamachella/pacman-game/blob/master/pacman/docs/img/pacman-game.png)
